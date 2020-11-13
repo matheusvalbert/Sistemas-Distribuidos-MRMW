@@ -9,4 +9,3 @@ Desenvolvido em python 3.6
 ````
 Iniciar os 2 servidores -> diretório -> cliente
 (Não existe limite para o numero de clientes)
-```
